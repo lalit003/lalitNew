@@ -5,5 +5,15 @@
     <classes>
       <class name="baseClass.HomePageTest"/>
     </classes>
+   </test>
+      <test thread-count="5" name="Test">
+    <classes>
+      <class name="taseTlass.HomePageTest"/>
+    </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+      <test thread-count="5" name="Test">
+    <classes>
+      <class name="tateTlass.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+  </suite> <!-- Suite Test -->
