@@ -5,10 +5,5 @@
     <classes>
       <class name="baseClass.HomePageTest"/>
     </classes>
-  </test>
-      <test thread-count="5" name="Test">
-    <classes>
-      <class name="taseClass.HomePageTest"/>
-    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
